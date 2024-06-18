@@ -13,10 +13,14 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
+   My operating system is windows and it is installed.
+
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+   I have visual studio code downloaded and installed. 
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+   I have a github account username is SnyderShivanda.
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
@@ -26,6 +30,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+   I have encountered problem when installing MySQL after downloading it  thus still working on it to ensure it is installed.
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
@@ -33,9 +38,51 @@ This assignment aims to familiarize you with the tools and configurations necess
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-9. Document Your Setup:
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+9.
+1. Operating System Installation
+OS: Windows 10 Pro
+Download and Installation: Obtained the latest ISO from the Microsoft website and performed a clean installation.
+Updates: Installed all available updates via Windows Update.
+2. Essential Software Installation
+Web Browsers: Installed Google Chrome and Mozilla Firefox for testing purposes.
+Download: Google Chrome, Mozilla Firefox
+Package Managers:
+Chocolatey: Installed via PowerShell. Command
+3. Development Tools
+Visual Studio Code:
 
+Download: VS Code
+Extensions: Installed essential extensions like Python, Prettier, ESLint, and GitLens.
+Settings Sync: Enabled settings sync to keep configurations consistent across devices.
+Integrated Development Environments (IDEs):
+
+PyCharm:
+Download: PyCharm
+Configuration: Customized key bindings and installed essential plugins.
+IntelliJ IDEA:
+Download: IntelliJ IDEA
+Configuration: Customized themes and installed necessary plugins.
+4. Version Control Systems
+Git:
+Installation: Installed via Chocolatey. Command
+
+3. Development Tools
+Visual Studio Code:
+
+Download: VS Code
+Extensions: Installed essential extensions like Python, Prettier, ESLint, and GitLens.
+Settings Sync: Enabled settings sync to keep configurations consistent across devices.
+Integrated Development Environments (IDEs):
+
+PyCharm:
+Download: PyCharm
+Configuration: Customized key bindings and installed essential plugins.
+IntelliJ IDEA:
+Download: IntelliJ IDEA
+Configuration: Customized themes and installed necessary plugins.
+4. Version Control Systems
+Git:
+Installation: Installed via Chocolatey. Command
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
